@@ -5,6 +5,7 @@ This is a web crawler written in Python. You will have to install BeautifulSoup 
 
 
 Install BeautifulSoup:
+----------------------
 
 The steps are given below: 
 
