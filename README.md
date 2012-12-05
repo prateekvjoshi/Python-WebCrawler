@@ -1,11 +1,9 @@
-Python-WebCrawler
-=================
+# Python-WebCrawler
 
 This is a web crawler written in Python. You will have to install BeautifulSoup before you can use it.
 
 
-Install BeautifulSoup:
-_____________________
+#### Install BeautifulSoup:
 
 The steps are given below: 
 
