@@ -30,14 +30,18 @@ Running the crawler:
 Download the crawler.py file from the repo. This file is used to crawl a given site. I have listed a few use cases below:
 
 The following command will display the total number of links found on a particular website after crawling:
->> python crawler.py http://website.com
+	
+	python crawler.py http://website.com
 
 If you want to crawl only upto a particular depth, then:
->> python crawler.py -d 2 http://website.com
+	
+	python crawler.py -d 2 http://website.com
 
 If you want the links which are only found on this particular url:
->> python crawler.py -l http://website.com
+	
+	python crawler.py -l http://website.com
 
 There are many other options you can explore. Execute the following in the terminal and you will see a bunch of options:
->> python crawler.py --help
+	
+	python crawler.py --help
 
