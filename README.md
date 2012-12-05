@@ -3,28 +3,20 @@
 This is a web crawler written in Python. You will have to install BeautifulSoup before you can use it.
 
 
-#### Install BeautifulSoup:
+### Install BeautifulSoup
 
 The steps are given below: 
-
 1) Go to this site: http://pypi.python.org/pypi/beautifulsoup4
-
 2) Download the file "beautifulsoup4-4.1.3.tar.gz"
-
 3) Unpack the file into a comfortable location
-
 4) Open terminal and go to the unpacked folder
-
 5) Execute the following commands:
-
 	python setup.py build
-
 	python setup.py install
-
 6) If the install is successful, you will not see any errors on the terminal.
 
 
-Running the crawler:
+### Running the crawler
 
 Download the crawler.py file from the repo. This file is used to crawl a given site. I have listed a few use cases below:
 
