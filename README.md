@@ -5,7 +5,7 @@ This is a web crawler written in Python. You will have to install BeautifulSoup 
 
 ### Install BeautifulSoup
 
-The steps are given below: 
+The steps are given below: <br/>
 1) Go to this site: http://pypi.python.org/pypi/beautifulsoup4
 2) Download the file "beautifulsoup4-4.1.3.tar.gz"
 3) Unpack the file into a comfortable location
